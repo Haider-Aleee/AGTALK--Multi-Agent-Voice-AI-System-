@@ -62,7 +62,7 @@ langgraph-voice-call-agent/
 
 1. **Clone and setup the project:**
 ```bash
-git clone https://github.com/ahmad2b/langgraph-voice-call-agent.git
+git clone https://github.com/Haider-Aleee/AGTALK--Multi-Agent-Voice-AI-System-.git
 cd langgraph-voice-call-agent
 
 # Initialize with uv
@@ -230,14 +230,14 @@ Modify `src/livekit/agent.py` to use cloud URL:
 
 ### Frontend
 
-[LangGraph Voice Call Agent Web](https://github.com/ahmad2b/langgraph-voice-call-agent-web)
+[LangGraph Voice Call Agent Web]
 
-#### Using the [LangGraph Voice Call Agent Web](https://github.com/ahmad2b/langgraph-voice-call-agent-web)
+#### Using the [LangGraph Voice Call Agent Web]
 
 1. Start this backend (see Quick Start above)
 2. Clone and run the frontend:
    ```bash
-   git clone https://github.com/ahmad2b/langgraph-voice-call-agent-web.git
+   git clone https://github.com/Haider-Aleee/AGTALK--Multi-Agent-Voice-AI-System-.git
    cd langgraph-voice-call-agent-web
    npm install && npm run dev
    ```
@@ -334,31 +334,6 @@ If you continue experiencing issues:
 - [LiveKit Self-Hosting Guide](https://docs.livekit.io/home/self-hosting/)
 - [LiveKit Cloud Documentation](https://docs.livekit.io/home/cloud/)
 - [LangGraph Documentation](https://github.com/langchain-ai/langgraph)
-
-## Contributing
-
-This project is open source and welcome contributions! Please open a PR or issue through GitHub.
-
-This project demonstrates LiveKit + LangGraph integration patterns. Feel free to:
-
-- Report issues and bugs
-- Suggest improvements and new features
-- Submit pull requests
-- Use as a reference for your own voice agent projects
-- Share your own LangGraph agent implementations
-
-## Connect
-
-I'm actively exploring voice-first and real-time agents. If you're building in this space or experimenting with real-time AI infrastructure, I'd love to trade ideas, collaborate, or help out.
-
-- GitHub: [ahmad2b](https://github.com/ahmad2b)  
-- Twitter/X: [@mahmad2b](https://x.com/mahmad2b)  
-- LinkedIn: [Ahmad Shaukat](https://www.linkedin.com/in/ahmad2b)  
-- Book a chat: [cal.com/mahmad2b/15min](https://cal.com/mahmad2b/15min)
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
